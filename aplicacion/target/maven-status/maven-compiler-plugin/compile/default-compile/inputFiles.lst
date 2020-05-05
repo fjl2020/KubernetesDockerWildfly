@@ -1,0 +1,3 @@
+/usr/src/mymaven/src/main/java/com/inigoserrano/docker/aplicacion/Aplicacion.java
+/usr/src/mymaven/src/main/java/com/inigoserrano/docker/aplicacion/LivenessProbe.java
+/usr/src/mymaven/src/main/java/com/inigoserrano/docker/aplicacion/ReadynessProbe.java
