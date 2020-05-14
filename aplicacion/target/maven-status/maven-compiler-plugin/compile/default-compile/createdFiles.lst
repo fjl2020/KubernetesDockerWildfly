@@ -1,3 +1,4 @@
 com/inigoserrano/docker/aplicacion/Aplicacion.class
+com/inigoserrano/docker/aplicacion/Propiedades.class
 com/inigoserrano/docker/aplicacion/LivenessProbe.class
 com/inigoserrano/docker/aplicacion/ReadynessProbe.class
